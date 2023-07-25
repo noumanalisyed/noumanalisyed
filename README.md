@@ -1,6 +1,6 @@
  Hello, I'm Syed Nouma Ali Shah!  👋
 
-<!--
+
 **noumanalisyed/noumanalisyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Senior Software Engineer at Xencorps 
 
@@ -34,4 +34,3 @@ npx nouman
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 
--->
