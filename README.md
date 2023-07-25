@@ -14,20 +14,21 @@ npx nouman
 
  A little more about me...
 
- const anmol = {
+ const nouman = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "SpringBoot"],
-    askMeAbout: ["web dev", "tech", "app dev", "AWS"],
+    code: ["Javascript", "Python", "Java", "C++"],
+    askMeAbout: ["web dev", "tech", "app dev", "Design"],
     technologies: {
         backEnd: {
-            js: ["Node", "SpringBoot", "Spring MVC"],
+            js: ["Node"],
+            Java : ["SpringBoot","Spring MVC","Spring Security"]
         },
         mobileApp: {
             native: ["Android Development"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
