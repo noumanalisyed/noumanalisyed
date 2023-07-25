@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 
 👇 Hit in your console or terminal to connect with me.
 
-npx nouman
-👆 This command line tool can be found at npx anmol
+   #npx nouman
+   
+👆 This command line tool can be found at npx nouman
 
  A little more about me...
 
